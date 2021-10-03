@@ -12,6 +12,9 @@ Relationship between weather factors and food poisoning through big data analysi
 >
 >크게 두 가지 원인균인 세균과 바이러스에 의한 식중독 발병률이 같은 기상요인에 의해 영향을 받더라도 세균성 원인균에 의한 식중독 발병률은 정(+)의 영향을 바이러스성 원인균에 의한 식중독 발병률은 부(-)의 영향을 받는 것으로 나타났다. 또한 세균성 원인균들 중 독소형, 독소 감염형 세균은 감염형 세균과 다르게 일사량에도 큰 영향을 받는 것을 확인할 수 있었다. 
 
+
+
+
 * 📃[연구 논문 보기][go to link]
 
 [go to link]: https://github.com/Minseo-Jo/Big-data-analysis/blob/a28a95bf82f52ecfb6220a3cc13703eaab2bc96f/%EB%B9%85%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EA%B8%B0%EC%83%81%20%EC%9A%94%EC%9D%B8%EA%B3%BC%20%EC%8B%9D%EC%A4%91%EB%8F%85%EA%B3%BC%EC%9D%98%20%EC%97%B0%EA%B4%80%EC%84%B1.pdf
