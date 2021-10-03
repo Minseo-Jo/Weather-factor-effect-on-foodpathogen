@@ -1,4 +1,6 @@
-
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
 
 ASOS_bacteria_infection <- read.csv('ASOS_bacteria_infection.csv')
 
@@ -9,7 +11,7 @@ ASOS_bacteria_infection <- na.omit(ASOS_bacteria_infection)
 
 ASOS_bacteria_infection <- ASOS_bacteria_infection[,-1]
 ASOS_bacteria_infection <- ASOS_bacteria_infection[,-1]
-colnames(ASOS_bacteria_infection) #����Ȯ��
+colnames(ASOS_bacteria_infection) #º¯¼öÈ®ÀÎ
 
 library('tidyverse')
 library('tidymodels')
@@ -132,4 +134,4 @@ measure_importance(bacteria_infection_rf$fit)%>%
 # 2 month_rainfall            67.5 
 # 3 avarage_wind_speed        13.3 
 # 4 highest_wind_speed        10.5 
-# 5 lowest_relative_humidity   3.71 ->빼기 
+# 5 lowest_relative_humidity   3.71 ->ë¹¼ê¸° 

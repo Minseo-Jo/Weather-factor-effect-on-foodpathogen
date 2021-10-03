@@ -1,3 +1,7 @@
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
+
 #세균성 - 독소형
 
 ASOS_bacteria_intoxication <- read.csv('ASOS_bacteria_intoxication.csv')

@@ -1,3 +1,7 @@
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
+
 AWS_bacteria_toxicoinfection <- read.csv('AWS_2018_bacteria_toxicoinfection.csv')
 
 AWS_bacteria_toxcoinfection <- na.omit(AWS_bacteria_toxicoinfection)

@@ -1,3 +1,9 @@
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
+
+#바이러스성
+
 ASOS_virus <- read.csv('ASOS_2018_virus.csv')
 
 head(ASOS_virus)

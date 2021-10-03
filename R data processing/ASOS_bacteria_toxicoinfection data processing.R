@@ -1,3 +1,7 @@
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
+
 #세균성 - 독소감염형
 
 
