@@ -1,2 +1,2 @@
-# Big-data-study
-Big data study about the effects of weather factor on food pathogen
+# Big-data-analysis
+Relationship between weather factors and food poisoning through big data analysis.
