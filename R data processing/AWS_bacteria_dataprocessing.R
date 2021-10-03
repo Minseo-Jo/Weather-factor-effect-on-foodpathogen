@@ -1,3 +1,7 @@
+# Original Code
+# Copyright (c) 2020, kini
+# https://kuduz.tistory.com/1202
+
 AWS_bacteria <- read.csv("AWS_2018_bacteria.csv", header = T)
 
 head(AWS_bacteria)
