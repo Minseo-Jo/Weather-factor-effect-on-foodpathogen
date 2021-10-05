@@ -1,5 +1,5 @@
-# Big-data-analysis
-Relationship between weather factors and food poisoning through big data analysis.
+# Data-analysis
+Relationship between weather factors and food poisoning through Data analysis.
 
 
 ### 요 약
