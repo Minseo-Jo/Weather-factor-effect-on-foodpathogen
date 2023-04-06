@@ -1,4 +1,4 @@
-# Relationship between weather factors and food poisoning through Data analysis.
+# Relationship between weather factors and food poisoning through Data analysis
 
 
 ### 요 약
